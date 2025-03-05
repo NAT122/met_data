@@ -1,3 +1,11 @@
+
+-Proyecto de analisis de al coleccion del Met Museum
+
+
+Desarrollo de etl, eda y funciones para buscar datos directamente. Centrandose en el departamente de vestuario, siendo uno de los más conocidos y actalmentes en cintaste cracimiento por el evento Met Gala. Tambien se identifica que el departamento con más articulo es 'Diujo e Impresiones' ya que una gran cantidad de articulos peden enrtar en esta clasificaion, y la naturaleza de las impresiones es la reproduccion multile de la imagen.
+
+Los datos para este proyecto se tomaron del Metropolitan Museum of Art Open Access CSV detallado a continuación 
+
 -The Metropolitan Museum of Art Open Access CSV
 ===================
 
